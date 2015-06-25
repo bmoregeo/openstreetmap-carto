@@ -212,7 +212,7 @@
       [way_pixels >= 64] { polygon-gamma: 0.3;  }
     }
   }
-
+  [feature = 'leisure_dog_park'],
   [feature = 'leisure_park'],
   [feature = 'leisure_recreation_ground'] {
     [zoom >= 10] {
